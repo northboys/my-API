@@ -1,15 +1,29 @@
 {
   "products": [
        {
-          "id": "macbook-pro",
+          "id": "macbook-pro1",
           "name": "MacBook Pro 2020",
           "details": "Didesain untuk mereka yang mendobrak batas dan membuat perubahan di dunia, MacBook Pro adalah laptop paling andal yang pernah kami buat sejauh ini. Dengan layar Retina 16 inci yang menghanyutkan, prosesor super cepat, grafis generasi berikutnya, kapasitas baterai terbesar yang pernah ada di MacBook Pro, Magic Keyboard baru, dan penyimpanan berukuran masif, inilah laptop profesional terbaik bagi pengguna yang paling pro.",
           "price": "IDR 31.999.000",
           "image": "https://raw.githubusercontent.com/northboys/my-API/master/71L2iBSyyOL._SL1500_-removebg-preview.png"
         },
       {
-          "id": "macbook-air",
+          "id": "macbook-air1",
           "name": "MacBook Air 2020",
+          "details": "MacBook Air yang luar biasa tipis dan ringan kini lebih canggih dibanding sebelumnya. Hadir dengan layar Retina yang brilian, Magic Keyboard baru, Touch ID, prosesor dengan performa hingga dua kali lipat,1 grafis lebih cepat, dan kapasitas penyimpanan dua kali lebih besar. Desain lekukan ramping dengan rangka yang terbuat dari 100 persen aluminium hasil daur ulang, menjadikannya Mac paling ramah lingkungan.2 Dan dengan kekuatan baterai sepanjang hari, Mac paling populer kami adalah laptop Anda yang paling portabel dan serbaguna.",
+          "price": "IDR 16.599.000",
+          "image": "https://raw.githubusercontent.com/northboys/my-API/master/macbook-air-space-gray-select-201810-removebg-preview.png"
+        }
+      {
+          "id": "macbook-pro2",
+          "name": "MacBook Air 2019",
+          "details": "MacBook Air yang luar biasa tipis dan ringan kini lebih canggih dibanding sebelumnya. Hadir dengan layar Retina yang brilian, Magic Keyboard baru, Touch ID, prosesor dengan performa hingga dua kali lipat,1 grafis lebih cepat, dan kapasitas penyimpanan dua kali lebih besar. Desain lekukan ramping dengan rangka yang terbuat dari 100 persen aluminium hasil daur ulang, menjadikannya Mac paling ramah lingkungan.2 Dan dengan kekuatan baterai sepanjang hari, Mac paling populer kami adalah laptop Anda yang paling portabel dan serbaguna.",
+          "price": "IDR 16.599.000",
+          "image": "https://raw.githubusercontent.com/northboys/my-API/master/macbook-air-space-gray-select-201810-removebg-preview.png"
+        }
+      {
+          "id": "macbook-air2",
+          "name": "MacBook Air 2019",
           "details": "MacBook Air yang luar biasa tipis dan ringan kini lebih canggih dibanding sebelumnya. Hadir dengan layar Retina yang brilian, Magic Keyboard baru, Touch ID, prosesor dengan performa hingga dua kali lipat,1 grafis lebih cepat, dan kapasitas penyimpanan dua kali lebih besar. Desain lekukan ramping dengan rangka yang terbuat dari 100 persen aluminium hasil daur ulang, menjadikannya Mac paling ramah lingkungan.2 Dan dengan kekuatan baterai sepanjang hari, Mac paling populer kami adalah laptop Anda yang paling portabel dan serbaguna.",
           "price": "IDR 16.599.000",
           "image": "https://raw.githubusercontent.com/northboys/my-API/master/macbook-air-space-gray-select-201810-removebg-preview.png"
